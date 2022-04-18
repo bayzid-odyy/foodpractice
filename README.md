@@ -1,2 +1,2 @@
 # foodpractice
-#practice_project
+#practice_project (https://bayzid-odyy.github.io/foodpractice/)
